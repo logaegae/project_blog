@@ -1,5 +1,6 @@
     <?php include("./blocks/head.php")?>
-
+        <br>
+        <br>
         <h1 class="page-header">
             Page Heading
             <small>Secondary Text</small>
