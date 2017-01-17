@@ -1,6 +1,5 @@
     <?php include("./blocks/head.php")?>
-        <br>
-        <br>
+    <?php include("./blocks/nav.php")?>
         <h1 class="page-header">
             Page Heading
             <small>Secondary Text</small>
@@ -18,7 +17,7 @@
         <img class="img-responsive" src="http://placehold.it/900x300" alt="">
         <hr>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, veritatis, tempora, necessitatibus inventore nisi quam quia repellat ut tempore laborum possimus eum dicta id animi corrupti debitis ipsum officiis rerum.</p>
-        <a class="btn btn-primary" href="#">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
+        <a class="btn btn-primary" href="depth2.php">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
 
         <hr>
 
@@ -63,8 +62,5 @@
                 <a href="#">Newer &rarr;</a>
             </li>
         </ul>
-
-    </div>
-
     <?php include("./blocks/side.php")?>
     <?php include("./blocks/footer.php")?>

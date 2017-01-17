@@ -1,4 +1,5 @@
     <?php include("./blocks/head.php")?>
+    <?php include("./blocks/nav.php")?>
 
         <!-- Blog Post -->
 
@@ -86,8 +87,5 @@
                 <!-- End Nested Comment -->
             </div>
         </div>
-
-    </div>
-
     <?php include("./blocks/side.php")?>
     <?php include("./blocks/footer.php")?>
