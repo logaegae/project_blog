@@ -3,7 +3,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; KimBY / <a href="mailto:logaegae@gmail.com">logaegae@gmail.com</a></p>
+                    <p>Copyright &copy; 2017-<? echo date('Y'); ?> KimBY / <a href="mailto:logaegae@gmail.com">logaegae@gmail.com</a></p>
                 </div>
                 <!-- /.col-lg-12 -->
             </div>
